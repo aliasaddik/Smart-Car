@@ -7,5 +7,5 @@ Features of the Car
 3. The gear is displayed on a 6 segment
 4. Specific radio channels are selected from the touch screen to be played on the radio
 
-Scheduling was Used to develop this project
-Check Team 26 pdf for more info on the project
+Scheduling using FreeRtos was Used to develop this project
+Check Team 26.pdf for more info on the project
